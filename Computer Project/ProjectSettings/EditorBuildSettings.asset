@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/House.unity
+    guid: fc15fc04ad566c949bd62a75209c1082
+  - enabled: 1
+    path: Assets/Scenes/OutsideOfHouse.unity
+    guid: 84bf7c1db3b992346bb3aa809d21534d
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 47f806b448016534bb600a4c07f6765d
+  - enabled: 1
+    path: Assets/Scenes/Cave.unity
+    guid: 2f8a1c4f88e498f4ab23933f8accef7e
+  m_configObjects: {}
